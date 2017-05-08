@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LittleHelper</string>
+
+    <string name="search_hint">Message to Remember</string>
+    <string name="no_message_error">Enter message</string>
+    <string name="stored_message">Current Reminder: %1$s</string>
+    <string name="message">Message</string>
+    <string name="current_message">Current Message</string>
+    <string name="my_prefs">Prefs</string>
+
+    <string name="add_permission">Add Permission</string>
+    <string name="add_location">Get Location</string>
+    <string name="getting_location">Getting Location</string>
+    <string name="location_found">Location Found</string>
+    <string name="location_listener_error">Location Listener Error</string>
+
+    <string name="add_geofence">Create Geofence</string>
+
+    <string name="settings">Setting</string>
+    <string name="not_now">Not Now</string>
+    <string name="gps_off_message">Your GPS seems to be disabled. Please enable GPS by going to your settings page and toggling location from OFF to ON</string>
+</resources>
+
